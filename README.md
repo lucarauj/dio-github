@@ -2,4 +2,7 @@
 
 🥇 Primeiro repositório
 
-[Meu linkedin:](https://www.linkedin.com/in/lucarauj/)
+## Links úteis
+[Meu linkedin](https://www.linkedin.com/in/lucarauj/)
+
+
